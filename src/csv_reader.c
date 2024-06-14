@@ -9,8 +9,6 @@
 CSVOptions csv_get_default_options() {
     CSVOptions options;
     options.delimiter = ',';
-    options.quotechar = '"';
-    options.skip_initial_space = 1;
     return options;
 }
 
