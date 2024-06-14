@@ -1,5 +1,6 @@
 #include "series.h"
 #include <stdio.h>
+#include <dataframe.h>
 
 int main() {
     // Create Series
