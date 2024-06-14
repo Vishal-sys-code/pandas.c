@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "csv_reader.h"
-#include "dataframe.h"
+#include "../src/csv_reader.h"
+#include "../src/dataframe.h"
 
 // Function declarations for test cases
 void test_read_csv_success();

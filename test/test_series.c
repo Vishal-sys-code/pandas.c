@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "series.h"
 #include "../src/series.h"
 
 // Function declarations for test cases
