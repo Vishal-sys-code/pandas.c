@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "series.h"
+#include "../src/series.h"
 
 // Function declarations for test cases
 void test_create_delete_series();
