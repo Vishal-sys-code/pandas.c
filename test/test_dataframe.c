@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "dataframe.h"
+#include "../src/dataframe.h"
 
 // Function declarations for test cases
 void test_create_delete_dataframe();
