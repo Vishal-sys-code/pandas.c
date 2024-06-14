@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include "dataframe.h"
 
 // Function to create a Series
 Series* create_series(const char *name, DataType type) {
